@@ -31,27 +31,4 @@ Learn to create, maintain and post a range of databases within your websites
 Requirements
 You need to have absolutely no prior knowledge of coding or website development – we start right from the basics and quickly get you up to speed
 A basic laptop and an internet connection
-Description
-MASTERCLASS, WORLD CLASS COURSE – WEB DEVELOPMENT, MACHINE LEARNING + AI INTEGRATIONS
 
-Master practical and theoretical concepts
-
-This extensive course leads you through a complete range of software skills and languages, skilling you up to be an incredibly on-demand developer. The combination of being able to create full-stack websites AND machine learning and AI models is very rare – something referred to as a unicorn. This is exactly what you will be able to do by the end of this course.
-
-Why you need this course
-Whether you’re looking to get into a high paying job in tech, aspiring to build a portfolio so that you can land remote contracts and work from the beach, or you’re looking to grow your tech start-up, this course will be essential to set you up with the skills and knowledge to develop you into a unicorn.
-
-It won’t matter if you’re a complete beginner to software or a seasoned veteran. This course will fill all the gaps in between. I will be there with you through your complete learning experience.
-
-What you will get out of this course
-I will give you straightforward examples, instructions, advice, insights and resources for you to take simple steps to start coding your programs, solving problems that inspire you and instilling the ‘developer’s mindset’ of problem-solving into you. Course Site
-
-I don’t just throw you in at the deep end – I provide you with the resources to learn and develop what you need at a pace that works for you and then help you stroll through to the finish line. Studies have shown that to learn effectively from online courses tutorials should last around ten minutes each. Therefore to maximize your learning experience all of the lectures in this course have been created around this amount of time or less. Course Site
-
-What materials are included?
-
-The majority of my lectures I have chosen to be a video so that you can hear me and see my workings when we’re going through every area of the course. I include a vast array of practical projects that you can then use in the future to showcase your skills as you develop them, along with introductory clips and quizzes in each section to ensure that you’re grasping the concepts effectively.
-
-I will be consistently adding more content and resources to the course as time goes by. Keep checking back here if you’re not sure right now and feel free to send me a message with any questions or requests you may have.
-
-I look forward to seeing you in the course.
