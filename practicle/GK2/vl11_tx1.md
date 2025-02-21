@@ -1,7 +1,7 @@
 # 📘 BÀI TẬP TRẢ LỜI NGẮN - ĐIỆN HỌC
 
 ## 1️⃣ Lực điện  
-Hai điện tích điểm \( q_1 = 2 \times 10^{-6} C \) và \( q_2 = -3 \times 10^{-6} C \) đặt cách nhau \( 10cm \) trong chân không.  
+Hai điện tích điểm $ q_1 = 2 \times 10^{-6} C $ và $ q_2 = -3 \times 10^{-6} C $ đặt cách nhau \( 10cm \) trong chân không.  
 Hỏi lực điện giữa hai điện tích là lực hút hay lực đẩy và có độ lớn bao nhiêu?  
 
 ---
@@ -59,4 +59,5 @@ Tính điện dung tương đương khi:
 
 ## 🔟 Năng lượng của tụ điện  
 Một tụ điện có điện dung \( C = 10\mu F \) được tích điện dưới hiệu điện thế \( U = 100V \).  
-Tính năng lượng điện trường tích trữ trong tụ điện.  
+Tính năng lượng điện trường tích trữ trong tụ điện.
+
