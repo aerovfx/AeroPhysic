@@ -39,6 +39,5 @@ Một electron di chuyển từ điểm \( A \) có điện thế 300V đến đ
 Tính công của lực điện thực hiện lên electron.
 
 ## Câu 10: Năng lượng của một hệ hai điện tích
-Hai điện tích điểm \( q_1 = 3 \times 10^{-6} C \) và \( q_2 = -2 \times 10^{-6} C \) đặt cách nhau 10 cm trong chân không.  
-Tính năng lượng của hệ hai điện tích này.
+Một tụ điện có điện dung \( C = 4\mu F \) được mắc vào hiệu điện thế 10V mà không bị đánh thủng. Tính năng lượng của tụ tích được dưới hiệu điện thế này.
 
