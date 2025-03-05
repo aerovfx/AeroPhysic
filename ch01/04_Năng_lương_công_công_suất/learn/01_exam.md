@@ -20,6 +20,62 @@ GV: Các nhóm thảo luận để hoàn thành phiếu học tập số 2.
 Các chuyên gia về nhóm của mình.
 HS: Thực hiện yêu cầu.
 
+Hoạt động 3: Tìm hiểu liên hệ động năng và thế năng (3 phút)
+
+
+## Góp ý:
+- Tiết bài tập nhưng thiếu các bước hướng dẫn giải 1 bài tập cho học sinh,cụ thể là:
+Khi dạy học bài tập về bảo toàn cơ năng theo phương pháp của Polya, giáo 
+viên cần hướng dẫn học sinh theo 4 bước giải bài toán sau:
+
+## Bước 1: Hiểu bài toán
+---------------
+*   Đọc kỹ đề bài và xác định các yếu tố quan trọng:
+    *   Vật đang chuyển động theo dạng nào?
+    *   Các đại lượng đã cho: khối lượng, vận tốc, độ cao, hằng số lò 
+xo,...
+    *   Yêu cầu của bài toán là tìm gì?
+    *   Vẽ sơ đồ minh họa (nếu cần), chọn hệ quy chiếu và điểm mốc thế 
+năng.
+
+## Bước 2: Lập kế hoạch giải
+---------------------
+*   Chọn phương pháp giải:
+    *   Vì đây là bài toán bảo toàn cơ năng, ta áp dụng:
+        +   Xác định trạng thái ban đầu và trạng thái sau để lập phương 
+trình.
+
+## Bước 3: Thực hiện giải bài toán
+-------------------------
+
+*   Viết phương trình bảo toàn cơ năng dựa trên trạng thái đầu và sau.
+*   Thay số vào phương trình, biến đổi và tìm ra đáp án.
+*   Kiểm tra đơn vị và tính hợp lý của kết quả.
+
+## Bước 4: Kiểm tra và xem xét lại
+-----------------------------
+
+*   So sánh với điều kiện thực tế:
+    +   Kết quả có hợp lý không?
+*   Kiểm tra lại phép tính để tránh sai sót.
+*   Tự đặt câu hỏi:
+    +   Nếu thay đổi khối lượng hoặc độ cao, kết quả sẽ thế nào?
+    +   Nếu có ma sát, cơ năng thay đổi ra sao?
+	+ 	Đặt ra một bài toán về tiết kiệm năng lượng cơ học.
+	
+
+- Vòng 1: bài tập khá dài, nhóm 2,3 tìm cơ năng tại B, C đã là chuyên gia. Chỉ cần cho các vị trí ứng với độ cao và vận tốc khác nhau.
+- Vòng 2: Phần tổng kết, giáo viên nên mở bảng Excel và nhập số liệu nhận xét kết quả.
+- Thiếu phần mở rộng bài toán, xảy ra ở bước 4 trong việc giải bài toán là đưa vào một yếu tố mới, một bối cảnh khác. Ví dụ ở đây là có sức cản không khí, hoặc rơi chạm đất như cái búa máy thì cơ năng này sẽ đi đâu?
+- Cảm nhận chung về không khí lớp học thì nếu chỉ áp dụng phương pháp này thì nó khá nhàm, phần sôi động nhất là phần thảo luận chuyển hoá giữa động năng và thế năng giúp tiết học vui vẻ hơn, phần này hiện tại có 2 phút (2h43). Nếu đầu tư phần này và xây dựng nội dung hấp dẫn thì nó giống điểm nhấn của bài.
+Ví dụ như sử dụng các phương tiện như tranh vẽ về chủ đề động năng, thế năng, cơ năng trong cuộc sống hằng ngày: thuỷ điện, động cơ ô tô, turbin gió, tập thể dục.
+
+
+- Cần chỉnh chu về hồ sơ: thiếu tiêu chí đánh giá, ...
+- Phiếu học tập cần chia ra. 
+- Bài tập nặng về củng cố kiến thức.
+- 
+
 
 
 
