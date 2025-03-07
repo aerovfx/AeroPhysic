@@ -476,39 +476,101 @@ M = 120 \, N \times 1 \, m = 120 \, N\cdot m.
 
 ## **BÀI 2: Cân bằng của mô men lực – Xà đơn thể dục**
 
-**Dữ liệu:**  
-- Khối lượng người: \( m = 75 \, kg \)  
-- Gia tốc trọng trường: \( g = 9.8 \, m/s^2 \)  
-- Trọng lượng người: \( W = m \cdot g = 75 \times 9.8 = 735 \, N \)  
-- Chiều dài xà đơn: \( L = 2 \, m \)  
-- Người đứng cách đầu trái: \( x = 0.5 \, m \)  
+Một người tập thể dục nặng \(75\,kg\) đang đu trên một xà đơn, có thể coi như một thanh cứng dài \(2\,m\), được treo bởi hai dây ở hai đầu. Nếu người đó giữ nguyên tư thế tại vị trí cách đầu trái \(0.5\,m\), tính lực căng của hai dây treo (lấy \(g = 9.8\,m/s^2\)).
+---
 
-Giả sử xà đơn là thanh cứng không có khối lượng (hoặc khối lượng không đáng kể) và có hai dây treo ở hai đầu với lực căng \( T_L \) (dây bên trái) và \( T_R \) (dây bên phải).
+### **Phân tích bài toán:**
 
-**Điều kiện cân bằng:**
+1. **Tính trọng lượng của người:**
 
-1. **Cân bằng lực theo phương đứng:**
+   - Khối lượng người: \( m = 75\,kg \)
+   - Gia tốc trọng trường: \( g = 9.8\,m/s^2 \)
+   - Trọng lượng:
+     \[
+     W = m \times g = 75 \times 9.8 = 735\,N.
+     \]
+
+2. **Xác định hệ quả của trọng lượng trên thanh xà đơn:**
+
+   - Xà đơn được coi là thanh cứng có độ dài \(2\,m\) và được treo bởi hai dây ở các đầu (đầu trái và đầu phải).
+   - Người đu tác dụng trọng lượng \(W = 735\,N\) tại điểm cách đầu trái \(0.5\,m\) (gọi điểm này là \(B\)).
+   - Gọi:
+     - \(T_L\): Lực căng ở dây bên trái (tại điểm \(A\)).
+     - \(T_R\): Lực căng ở dây bên phải (tại điểm \(C\)).
+
+3. **Điều kiện cân bằng lực:**
+
+   Vì hệ đang ở trạng thái cân bằng, tổng các lực theo phương thẳng đứng phải bằng 0. Do đó:
    \[
-   T_L + T_R = 735 \, N.
+   T_L + T_R = W = 735\,N.
    \]
 
-2. **Cân bằng mô men (lấy mốc ở đầu trái):**  
-   - Mô men của trọng lượng người: \( 735 \, N \times 0.5 \, m = 367.5 \, N\cdot m \) (quay chiều thuận theo hướng làm xoay xà đơn xuống bên phải).  
-   - Mô men của lực căng dây bên phải: \( T_R \times 2 \, m \).
+4. **Điều kiện cân bằng mô men:**
 
-   Điều kiện cân bằng mô men:
+   Chọn mốc quay tại điểm \(A\) (đầu trái). Khi đó:
+   
+   - Mô men do trọng lượng người:
+     \[
+     M_W = W \times \text{cách A đến điểm tác dụng} = 735\,N \times 0.5\,m = 367.5\,N\cdot m.
+     \]
+     
+   - Lực \(T_R\) tạo ra mô men đối với mốc \(A\) (khoảng cách từ \(A\) đến \(C\) là \(2\,m\)):
+     \[
+     M_{T_R} = T_R \times 2\,m.
+     \]
+     
+   Vì hệ cân bằng mô men, ta có:
    \[
-   T_R \times 2 = 367.5 \quad \Rightarrow \quad T_R = \frac{367.5}{2} = 183.75 \, N.
+   T_R \times 2\,m = 367.5\,N\cdot m \quad \Rightarrow \quad T_R = \frac{367.5}{2} = 183.75\,N.
    \]
 
-**Tính \( T_L \):**  
-\[
-T_L = 735 - 183.75 = 551.25 \, N.
-\]
+5. **Tính lực căng dây bên trái:**
 
-**Kết quả:**  
-- Lực căng dây bên trái: khoảng \( 551 \, N \).  
-- Lực căng dây bên phải: khoảng \( 184 \, N \).
+   Từ điều kiện cân bằng lực:
+   \[
+   T_L = W - T_R = 735\,N - 183.75\,N = 551.25\,N.
+   \]
+
+---
+
+### **Kết quả:**
+
+- **Lực căng dây bên trái (T_L):** khoảng \(551\,N\).  
+- **Lực căng dây bên phải (T_R):** khoảng \(184\,N\).
+
+---
+
+### **Hình vẽ minh họa:**
+
+Dưới đây là sơ đồ đơn giản minh họa hệ thống xà đơn và lực tác dụng:
+
+```
+         T_L = 551.3 N
+             ↑
+     [A] ----------------------- [C]
+     |         2 m           |
+     |                       |
+     |                       |
+     | 0.5 m                ← T_R = 183.8 N
+     ↓
+  Person (W = 735 N)
+```
+
+**Chú thích:**
+
+- **Điểm A:** Vị trí dây treo bên trái, nơi xuất phát mô men đối với toàn bộ hệ.
+- **Điểm C:** Vị trí dây treo bên phải.
+- **Khoảng cách \(AC = 2\,m\):** Chiều dài của xà đơn.
+- **Điểm tác dụng trọng lượng (B):** Nơi người đu treo, cách A \(0.5\,m\).
+- Các mũi tên biểu diễn hướng lực căng của dây treo: \(T_L\) hướng lên từ \(A\) và \(T_R\) hướng lên từ \(C\).
+- Trọng lượng người \(W = 735\,N\) tác dụng xuống tại \(B\).
+
+---
+
+### **Nhận xét:**
+
+- Vì người đu nằm gần đầu trái, nên dây bên trái phải chịu lực căng lớn hơn (khoảng \(551\,N\)) so với dây bên phải (\(184\,N\)).  
+- Trong thực tế, nếu muốn duy trì trạng thái cân bằng, hệ thống treo cần đảm bảo các dây có khả năng chịu lực khác nhau phù hợp với vị trí tác dụng của trọng lượng.
 
 ---
 
