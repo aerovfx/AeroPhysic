@@ -168,5 +168,3 @@ d. (TH) Nếu một tụ điện có điện dung \(10\,\mu F\) được nạp �
 3. Chú ý đơn vị trong các phép tính (N, C, V, F, J, v.v.).
 
 ---
-
-Phiên bản đề trên được điều chỉnh để phù hợp với ma trận đã phân tích trong file “MA TRẬN VẬT LÝ 11 GK2_2025.docx” (tham khảo citeturn1file0). Bạn có thể lưu lại dưới dạng Word hoặc PDF để sử dụng. Nếu cần bổ sung hay chỉnh sửa thêm chi tiết nào, vui lòng cho biết thêm!
