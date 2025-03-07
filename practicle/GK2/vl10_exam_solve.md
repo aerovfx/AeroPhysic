@@ -446,3 +446,269 @@ Với:
 
 \[ H = \frac{80}{100} \times 100\% \]
 \[ H = 80\% \]
+
+# ĐỀ 5
+Dưới đây là lời giải chi tiết cho từng bài tập:
+
+---
+
+## **BÀI 1: Mô men lực – Mở cổng nặng**
+
+**Bài ra:**  
+- Chiều dài thanh đòn: \( L = 1.2 \, m \)  
+- Công nhân tác dụng lực \( F = 120 \, N \) vuông góc với thanh đòn, nhưng lực này được áp dụng tại điểm cách bản lề \( d = 1 \, m \).
+
+**Tính mô men lực (moment):**  
+Theo định nghĩa mô men lực:  
+\[
+M = F \times d
+\]
+Thay số:  
+\[
+M = 120 \, N \times 1 \, m = 120 \, N\cdot m.
+\]
+
+**Phân tích làm sao cho mở cổng dễ hơn:**  
+Để tạo mô men lực lớn hơn (với cùng một lực) hoặc để đạt được mô men cần thiết với lực nhỏ hơn, bạn có thể tăng khoảng cách tác dụng lực (tức là áp dụng lực tại điểm cách bản lề xa hơn).  
+=> Nếu bạn dùng thanh đòn dài hơn (hoặc chọn điểm tác dụng xa hơn bản lề) thì cùng một mô men có thể đạt được với lực nhỏ hơn.
+
+---
+
+## **BÀI 2: Cân bằng của mô men lực – Xà đơn thể dục**
+
+**Dữ liệu:**  
+- Khối lượng người: \( m = 75 \, kg \)  
+- Gia tốc trọng trường: \( g = 9.8 \, m/s^2 \)  
+- Trọng lượng người: \( W = m \cdot g = 75 \times 9.8 = 735 \, N \)  
+- Chiều dài xà đơn: \( L = 2 \, m \)  
+- Người đứng cách đầu trái: \( x = 0.5 \, m \)  
+
+Giả sử xà đơn là thanh cứng không có khối lượng (hoặc khối lượng không đáng kể) và có hai dây treo ở hai đầu với lực căng \( T_L \) (dây bên trái) và \( T_R \) (dây bên phải).
+
+**Điều kiện cân bằng:**
+
+1. **Cân bằng lực theo phương đứng:**
+   \[
+   T_L + T_R = 735 \, N.
+   \]
+
+2. **Cân bằng mô men (lấy mốc ở đầu trái):**  
+   - Mô men của trọng lượng người: \( 735 \, N \times 0.5 \, m = 367.5 \, N\cdot m \) (quay chiều thuận theo hướng làm xoay xà đơn xuống bên phải).  
+   - Mô men của lực căng dây bên phải: \( T_R \times 2 \, m \).
+
+   Điều kiện cân bằng mô men:
+   \[
+   T_R \times 2 = 367.5 \quad \Rightarrow \quad T_R = \frac{367.5}{2} = 183.75 \, N.
+   \]
+
+**Tính \( T_L \):**  
+\[
+T_L = 735 - 183.75 = 551.25 \, N.
+\]
+
+**Kết quả:**  
+- Lực căng dây bên trái: khoảng \( 551 \, N \).  
+- Lực căng dây bên phải: khoảng \( 184 \, N \).
+
+---
+
+## **BÀI 3: Công – Kéo vật trên mặt phẳng nghiêng**
+
+**Dữ liệu:**  
+- Khối lượng thùng xi măng: \( m = 25 \, kg \)  
+- Độ dài mặt nghiêng: \( s = 6 \, m \)  
+- Chiều cao: \( h = 2 \, m \)  
+- Lực kéo theo phương dọc mặt nghiêng: \( F = 120 \, N \)
+
+**(a) Tính công mà thợ xây thực hiện:**  
+Công do lực kéo thực hiện:  
+\[
+W_{\text{thợ}} = F \times s = 120 \, N \times 6 \, m = 720 \, J.
+\]
+
+**(b) Công tối thiểu cần thiết để nâng vật lên cao \( 2 \, m \):**  
+Công cần để tăng thế năng trọng trường:  
+\[
+W_{\text{min}} = m \, g \, h = 25 \times 9.8 \times 2 = 490 \, J.
+\]
+
+**So sánh:**  
+Công thực hiện (720 J) lớn hơn công tối thiểu (490 J) do do đường đi dài hơn trên mặt nghiêng và có thể có thêm tổn thất (ma sát, không hiệu quả hoàn toàn).
+
+---
+
+## **BÀI 4: Công suất – Động cơ máy bay**
+
+**Dữ liệu:**  
+- Lực đẩy của động cơ: \( F = 5000 \, N \)  
+- Vận tốc không đổi: \( v = 200 \, m/s \)  
+- Thời gian hoạt động: \( t = 2 \, h = 7200 \, s \)  
+
+**(a) Tính công suất của động cơ:**  
+Công suất:
+\[
+P = F \times v = 5000 \, N \times 200 \, m/s = 1\,000\,000 \, W = 1 \, MW.
+\]
+
+**(b) Tính tổng công sinh ra trong 2 giờ:**  
+\[
+W = P \times t = 1\,000\,000 \, W \times 7200 \, s = 7.2 \times 10^9 \, J.
+\]
+
+---
+
+## **BÀI 5: Động năng – Xe đua F1**
+
+**Dữ liệu:**  
+- Khối lượng xe: \( m = 800 \, kg \)  
+- Vận tốc ban đầu: \( v_1 = 300 \, km/h \). Chuyển đổi: \( v_1 = \frac{300}{3.6} \approx 83.33 \, m/s \).  
+- Vận tốc giảm: \( v_2 = 150 \, km/h \). Chuyển đổi: \( v_2 = \frac{150}{3.6} \approx 41.67 \, m/s \).
+
+**(a) Tính động năng ban đầu:**  
+\[
+KE_1 = \frac{1}{2} m v_1^2 = 0.5 \times 800 \times (83.33)^2.
+\]
+Tính \( (83.33)^2 \approx 6944.44 \),
+\[
+KE_1 \approx 400 \times 6944.44 \approx 2.78 \times 10^6 \, J.
+\]
+
+**(b) Tính động năng khi xe chạy với \( v_2 \):**  
+\[
+KE_2 = \frac{1}{2} m v_2^2 = 0.5 \times 800 \times (41.67)^2.
+\]
+Tính \( (41.67)^2 \approx 1736.11 \),
+\[
+KE_2 \approx 400 \times 1736.11 \approx 694444 \, J \quad (\approx 6.94 \times 10^5 \, J).
+\]
+
+**(c) Phần năng lượng bị mất:**  
+\[
+\Delta KE = KE_1 - KE_2 \approx 2.78 \times 10^6 - 6.94 \times 10^5 \approx 2.09 \times 10^6 \, J.
+\]
+
+---
+
+## **BÀI 6: Thế năng – Vệ tinh quay quanh Trái Đất**
+
+**Dữ liệu:**  
+- Khối lượng vệ tinh: \( m = 2000 \, kg \)  
+- Độ cao so với mặt đất: \( h = 500 \, km = 5 \times 10^5 \, m \)  
+- Bán kính Trái Đất: \( R = 6370 \, km = 6.37 \times 10^6 \, m \)  
+- \( g = 9.8 \, m/s^2 \) tại bề mặt Trái Đất
+
+Để tính "thế năng hấp dẫn so với mặt đất" ta dùng hiệu chênh giữa thế năng ở độ cao \( h \) và ở mặt đất:
+\[
+\Delta U = U(h) - U(0) = GMm\left(\frac{1}{R} - \frac{1}{R+h}\right),
+\]
+với \( GM = gR^2 \).
+
+Tính \( GM \):
+\[
+GM = 9.8 \times (6.37 \times 10^6)^2 \approx 9.8 \times 4.058 \times 10^{13} \approx 3.976 \times 10^{14} \, m^3/s^2.
+\]
+
+Tính \( \frac{1}{R} \) và \( \frac{1}{R+h} \):
+\[
+\frac{1}{R} \approx \frac{1}{6.37 \times 10^6} \approx 1.57 \times 10^{-7} \, m^{-1},
+\]
+\[
+\frac{1}{R+h} \approx \frac{1}{6.37 \times 10^6 + 5 \times 10^5} = \frac{1}{6.87 \times 10^6} \approx 1.455 \times 10^{-7} \, m^{-1}.
+\]
+Hiệu:
+\[
+\frac{1}{R} - \frac{1}{R+h} \approx 1.57 \times 10^{-7} - 1.455 \times 10^{-7} = 1.15 \times 10^{-8} \, m^{-1}.
+\]
+
+Từ đó:
+\[
+\Delta U = 3.976 \times 10^{14} \times 2000 \times 1.15 \times 10^{-8}.
+\]
+Tính phần tử trung gian:
+\[
+3.976 \times 10^{14} \times 2000 = 7.952 \times 10^{17},
+\]
+\[
+\Delta U \approx 7.952 \times 10^{17} \times 1.15 \times 10^{-8} \approx 9.15 \times 10^9 \, J.
+\]
+
+**Kết quả:**  
+Thế năng hấp dẫn (tức công cần nâng vệ tinh từ mặt đất lên độ cao 500 km) khoảng \( 9.15 \times 10^9 \, J \).
+
+---
+
+## **BÀI 7: Cơ năng – Tàu lượn siêu tốc**
+
+**Dữ liệu:**  
+- Khối lượng toa tàu: \( m = 500 \, kg \)  
+- Đỉnh dốc ban đầu: \( h_1 = 40 \, m \)  
+- Vận tốc ban đầu: \( v_1 = 5 \, m/s \)  
+- Độ cao khi xuống: \( h_2 = 10 \, m \)  
+- Gia tốc trọng trường: \( g = 10 \, m/s^2 \)
+
+**(a) Tính cơ năng tại đỉnh dốc (h = 40 m):**  
+- Thế năng: \( PE_1 = mgh_1 = 500 \times 10 \times 40 = 200\,000 \, J \).  
+- Động năng: \( KE_1 = \frac{1}{2} m v_1^2 = 0.5 \times 500 \times (5)^2 = 0.5 \times 500 \times 25 = 6250 \, J \).  
+- Tổng cơ năng:  
+\[
+E_{\text{top}} = PE_1 + KE_1 = 200\,000 + 6250 = 206\,250 \, J.
+\]
+
+**(b) Tại độ cao \( h_2 = 10 \, m \):**  
+- Thế năng: \( PE_2 = mgh_2 = 500 \times 10 \times 10 = 50\,000 \, J \).  
+- Theo bảo toàn cơ năng (không mất năng do ma sát), động năng còn lại:  
+\[
+KE_2 = E_{\text{top}} - PE_2 = 206\,250 - 50\,000 = 156\,250 \, J.
+\]
+- Tính vận tốc tại \( h_2 \):  
+\[
+KE_2 = \frac{1}{2} m v_2^2 \quad \Rightarrow \quad v_2^2 = \frac{2 \, KE_2}{m} = \frac{2 \times 156\,250}{500} = \frac{312\,500}{500} = 625.
+\]
+\[
+v_2 = \sqrt{625} = 25 \, m/s.
+\]
+
+**Kết quả:**  
+- Tổng cơ năng tại đỉnh dốc: \( 206\,250 \, J \).  
+- Vận tốc khi hạ xuống độ cao 10 m: \( 25 \, m/s \).
+
+---
+
+## **BÀI 8: Hiệu suất – Động cơ thủy điện**
+
+**Dữ liệu:**  
+- Độ cao đập: \( h = 80 \, m \)  
+- Lưu lượng nước: \( \dot{m} = 2000 \, kg/s \)  
+- Gia tốc trọng trường: \( g = 9.8 \, m/s^2 \)  
+- Công suất thực tế: \( P_{\text{thực}} = 1200 \, kW \)
+
+**(a) Tính công suất lý tưởng:**  
+Công suất lý tưởng (công năng của nước chuyển thành năng lượng cơ học) được tính theo:
+\[
+P_{\text{lý tưởng}} = \dot{m} \, g \, h = 2000 \times 9.8 \times 80.
+\]
+Tính:
+\[
+2000 \times 9.8 = 19600, \quad 19600 \times 80 = 1\,568\,000 \, W \quad (\approx 1568 \, kW).
+\]
+
+**(b) Tính hiệu suất của hệ thống:**  
+Hiệu suất \( \eta \) là tỉ số giữa công suất thực tế và công suất lý tưởng:
+\[
+\eta = \frac{P_{\text{thực}}}{P_{\text{lý tưởng}}} = \frac{1200}{1568} \approx 0.765 \quad \text{(hay }76.5\%\text{)}.
+\]
+
+---
+
+## **Tóm tắt Kết quả**
+
+1. **Bài 1:** Mô men lực \( = 120 \, N\cdot m \). Để mở cổng dễ hơn, cần tác dụng lực ở điểm cách bản lề xa hơn.
+2. **Bài 2:** Lực căng dây bên trái \( \approx 551 \, N \), bên phải \( \approx 184 \, N \).
+3. **Bài 3:** Công do thợ kéo \( = 720 \, J \); công tối thiểu (nâng) \( \approx 490 \, J \).
+4. **Bài 4:** Công suất động cơ \( = 1 \, MW \); tổng công sinh ra trong 2 giờ \( = 7.2 \times 10^9 \, J \).
+5. **Bài 5:** Động năng ban đầu của xe \( \approx 2.78 \times 10^6 \, J \); năng lượng mất đi khi giảm vận tốc \( \approx 2.09 \times 10^6 \, J \).
+6. **Bài 6:** Hiệu chênh thế năng hấp dẫn của vệ tinh so với mặt đất \( \approx 9.15 \times 10^9 \, J \).
+7. **Bài 7:** Cơ năng ban đầu \( \approx 206\,250 \, J \); vận tốc khi xuống \( = 25 \, m/s \).
+8. **Bài 8:** Công suất lý tưởng \( \approx 1568 \, kW \); hiệu suất \( \approx 76.5\% \).
+
+---
