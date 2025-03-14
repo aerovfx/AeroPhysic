@@ -20,7 +20,7 @@ Chọn **Đúng (Đ)** hoặc **Sai (S)** cho các phát biểu sau:
 
 ---
 
-## **Phần 3: TRẢ LỜI NGẮN**  
+## **Phần 3: TRẢ LỜI NGẮN (2 điểm)**  
 
 ### **Câu 1:**  
 Hai điện tích điểm \( q_1 = 3 \times 10^{-6} C \) và \( q_2 = -2 \times 10^{-6} C \) được đặt cách nhau một khoảng \( r = 0.1 m \) trong chân không.  
@@ -55,7 +55,7 @@ Hai bản kim loại phẳng song song mang điện tích trái dấu tạo ra m
 
 ---
 
-## **Phần 4: TỰ LUẬN**  
+## **Phần 4: TỰ LUẬN (3 điểm)**  
 
 ### **Câu 1:**  
 Hai quả cầu nhỏ mang điện tích \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = -3 \times 10^{-6} C \) được đặt trong chân không, cách nhau một khoảng \( r = 0.2m \).  
