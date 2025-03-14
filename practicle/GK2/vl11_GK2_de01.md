@@ -36,10 +36,13 @@ Hai điện tích điểm \( q_1 = 3 \times 10^{-6} C \) và \( q_2 = -2 \times 
 
 **Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **4 chữ số thập phân**.  
 
-
 ---
+### **Câu 3: Hai bản kim loại phẳng song song được tích điện trái dấu, tạo ra một điện trường đều giữa chúng. Hiệu điện thế giữa hai bản là \( U = 150V \) và khoảng cách giữa hai bản là \( d = 0.03m \).  
 
+**a)** Tính cường độ điện trường giữa hai bản kim loại này theo đơn vị V/m. 
+**Biết rằng** công thức tính cường độ điện trường đều là \( E = \frac{U}{d} \). 
 
+### **Câu 4:
 
 # ĐỀ 246
 
@@ -76,5 +79,11 @@ Hai điện tích điểm \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = 4 \times 1
 
 **a)** Xác định khoảng cách \( r \) từ điểm đó đến điện tích \( Q \) theo đơn vị cm.  
 
-**Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **4 chữ số thập phân**.  
+**Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **2 chữ số thập phân**.  
+
+### **Câu 3:Một hạt mang điện tích \( q = 2 \times 10^{-6} C \) được đặt trong một điện trường đều có hiệu điện thế \( U = 500V \) giữa hai bản kim loại phẳng song song, cách nhau một khoảng \( d = 0.02m \).  
+
+**a)** Xác định lực điện tác dụng lên hạt điện tích này theo đơn vị N.
+**Biết rằng** công thức tính cường độ điện trường đều là \( E = \frac{U}{d} \) và lực điện được tính theo công thức \( F = qE \). Làm tròn đến **2 chữ số thập phân**.  
+
 
