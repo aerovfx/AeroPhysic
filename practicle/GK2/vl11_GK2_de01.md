@@ -42,7 +42,9 @@ Hai điện tích điểm \( q_1 = 3 \times 10^{-6} C \) và \( q_2 = -2 \times 
 **a)** Tính cường độ điện trường giữa hai bản kim loại này theo đơn vị V/m. 
 **Biết rằng** công thức tính cường độ điện trường đều là \( E = \frac{U}{d} \). 
 
-### **Câu 4:
+### **Câu 4: Hai bản kim loại phẳng song song mang điện tích trái dấu tạo ra một điện trường đều giữa chúng. Hiệu điện thế giữa hai bản là \( U = 900V \) và khoảng cách giữa hai bản là \( d = 0.03m \).  
+
+**a)** Xác định cường độ điện trường giữa hai bản theo đơn vị V/m. 
 
 # ĐỀ 246
 
@@ -87,3 +89,6 @@ Hai điện tích điểm \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = 4 \times 1
 **Biết rằng** công thức tính cường độ điện trường đều là \( E = \frac{U}{d} \) và lực điện được tính theo công thức \( F = qE \). Làm tròn đến **2 chữ số thập phân**.  
 
 
+### **Câu 4: Một điện tích \( q = 3 \times 10^{-6} C \) di chuyển trong một điện trường đều từ điểm \( M \) đến điểm \( N \) với công thực hiện bởi lực điện là \( A = 0.012 \, J \).  
+
+**a)** Tính điện thế \( V_N \) tại điểm \( N \) nếu \( V_M = 50V \) theo đơn vị V.
