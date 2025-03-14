@@ -30,6 +30,16 @@ Hai điện tích điểm \( q_1 = 3 \times 10^{-6} C \) và \( q_2 = -2 \times 
 **Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **một chữ số thập phân**.  
 
 ---
+### **Câu 2: Một điện tích điểm \( Q = 1.78 \times 10^{-8} C \) được đặt trong chân không.  
+
+**a)** Tính cường độ điện trường tại một điểm cách điện tích này \( r = 0.2 m \) theo đơn vị V/m.  
+
+**Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **4 chữ số thập phân**.  
+
+
+---
+
+
 
 # ĐỀ 246
 
@@ -61,3 +71,10 @@ Hai điện tích điểm \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = 4 \times 1
 **a)** Tính độ lớn của lực tương tác giữa hai điện tích này theo đơn vị Newton.  
 
 **Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **một chữ số thập phân**.  
+
+### **Câu 2: Một điện tích điểm \( Q = 2.00 \times 10^{-4} C \) tạo ra một điện trường có cường độ \( E = 4.5 \times 10^5 N/C \) tại một điểm trong chân không.  
+
+**a)** Xác định khoảng cách \( r \) từ điểm đó đến điện tích \( Q \) theo đơn vị cm.  
+
+**Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **4 chữ số thập phân**.  
+
