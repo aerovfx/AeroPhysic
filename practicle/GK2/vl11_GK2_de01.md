@@ -109,8 +109,61 @@ Chọn **Đúng (Đ)** hoặc **Sai (S)** cho các phát biểu sau:
 ## **Phần 3: TRẢ LỜI NGẮN**  
 
 ### **Câu 1:**  
-Hai điện tích điểm \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = 4 \times 10^{-6} C \) được đặt cách nhau một khoảng \( r = 0.2 m \) trong chân không.  
+Hai điện tích điểm \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = -7 \times 10^{-6} C \) được đặt cách nhau một khoảng \( r = 0.3 m \) trong chân không.  
 
 **a)** Tính độ lớn của lực tương tác giữa hai điện tích này theo đơn vị Newton.  
 
 **Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **một chữ số thập phân**.  
+
+---
+
+### **Câu 2:**  
+Một điện tích điểm \( Q = 4.5 \times 10^{-8} C \) được đặt trong chân không.  
+
+**a)** Tính cường độ điện trường tại một điểm cách điện tích này \( r = 0.35 m \) theo đơn vị V/m.  
+
+**Biết rằng** hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). Làm tròn đến **4 chữ số thập phân**.  
+
+---
+
+### **Câu 3:**  
+Hai bản kim loại phẳng song song được tích điện trái dấu, tạo ra một điện trường đều giữa chúng. Hiệu điện thế giữa hai bản là \( U = 450V \) và khoảng cách giữa hai bản là \( d = 0.06m \).  
+
+**a)** Tính cường độ điện trường giữa hai bản kim loại này theo đơn vị V/m.  
+**Biết rằng** công thức tính cường độ điện trường đều là \( E = \frac{U}{d} \).  
+
+---
+
+### **Câu 4:**  
+Hai bản kim loại phẳng song song mang điện tích trái dấu tạo ra một điện trường đều giữa chúng. Hiệu điện thế giữa hai bản là \( U = 1100V \) và khoảng cách giữa hai bản là \( d = 0.025m \).  
+
+**a)** Xác định cường độ điện trường giữa hai bản theo đơn vị V/m.  
+
+---
+
+## **Phần 4: TỰ LUẬN**  
+
+### **Câu 1:**  
+Hai quả cầu nhỏ mang điện tích \( q_1 = -9 \times 10^{-6} C \) và \( q_2 = 7 \times 10^{-6} C \) được đặt trong chân không, cách nhau một khoảng \( r = 0.22m \).  
+
+**a)** Phát biểu định luật Coulomb và nêu đơn vị đo điện tích trong hệ SI.  
+
+**b)** Xác định xem hai quả cầu này sẽ hút hay đẩy nhau.  
+
+---
+
+### **Câu 2:**  
+Một điện tích điểm \( Q = -8 \times 10^{-6} C \) được đặt trong chân không. Một điểm \( P \) nằm cách điện tích này một khoảng \( r = 0.45 m \).  
+
+**a)** Vẽ hình biểu diễn điện phổ của điện trường do điện tích \( Q \) tạo ra.  
+
+**b)** Sử dụng công thức \( E = \frac{k |Q|}{\varepsilon r^2} \) để tính cường độ điện trường tại điểm \( P \). Biết rằng hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \).  
+
+---
+
+### **Câu 3:**  
+Một mạch điện chứa hai tụ điện có điện dung lần lượt là \( C_1 = 9 \mu F \) và \( C_2 = 6 \mu F \), được nối với hiệu điện thế \( U = 250V \).  
+
+**a)** Tìm điện dung của bộ tụ ghép song song.  
+
+**b)** Tính năng lượng của bộ tụ khi hai tụ được ghép song song và được tích điện ở hiệu điện thế \( U = 250V \).  
