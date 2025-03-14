@@ -46,6 +46,32 @@ Hai điện tích điểm \( q_1 = 3 \times 10^{-6} C \) và \( q_2 = -2 \times 
 
 **a)** Xác định cường độ điện trường giữa hai bản theo đơn vị V/m. 
 
+## Phần 4: TỰ LUẬN 
+### **Câu 1: 
+
+Hai quả cầu nhỏ mang điện tích \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = -3 \times 10^{-6} C \) được đặt trong chân không, cách nhau một khoảng \( r = 0.2m \).  
+
+**a)** Phát biểu định luật Coulomb và nêu đơn vị đo điện tích trong hệ SI.  
+
+**b)** Xác định xem hai quả cầu này sẽ hút hay đẩy nhau. 
+
+### **Câu 2: 
+
+Một điện tích điểm \( Q = 4 \times 10^{-6} C \) được đặt trong chân không. Một điểm \( P \) nằm cách điện tích này một khoảng \( r = 0.3 m \).  
+
+**a)**  Vẽ hình biểu diễn điện phổ của điện trường do điện tích \( Q \) tạo ra.  
+
+**b)** Sử dụng công thức \( E = \frac{k |Q|}{\varepsilon r^2} \) để tính cường độ điện trường tại điểm \( P \). Biết rằng hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \). 
+
+### **Câu 3: 
+
+Một mạch điện chứa hai tụ điện có điện dung lần lượt là \( C_1 = 6 \mu F \) và \( C_2 = 3 \mu F \), được nối với hiệu điện thế \( U = 120V \).  
+
+**a)** Tìm điện dung của bộ tụ ghép nối tiếp.
+
+**b)** Tính năng lượng của bộ tụ khi hai tụ được ghép nối tiếp và được tích điện ở hiệu điện thế  \( U = 120V \). 
+
+
 # ĐỀ 246
 
 ## Phần 2: ĐÚNG SAI (2 điểm)
@@ -92,3 +118,30 @@ Hai điện tích điểm \( q_1 = 5 \times 10^{-6} C \) và \( q_2 = 4 \times 1
 ### **Câu 4: Một điện tích \( q = 3 \times 10^{-6} C \) di chuyển trong một điện trường đều từ điểm \( M \) đến điểm \( N \) với công thực hiện bởi lực điện là \( A = 0.012 \, J \).  
 
 **a)** Tính điện thế \( V_N \) tại điểm \( N \) nếu \( V_M = 50V \) theo đơn vị V.
+
+## Phần 4: TỰ LUẬN 
+### **Câu 1: 
+
+Hai quả cầu nhỏ mang điện tích \( q_1 = -5 \times 10^{-6} C \) và \( q_2 = -3 \times 10^{-6} C \) được đặt trong chân không, cách nhau một khoảng \( r = 0.2m \).  
+
+**a)** Phát biểu định luật Coulomb và nêu đơn vị đo điện tích trong hệ SI.  
+
+**b)** Xác định xem hai quả cầu này sẽ hút hay đẩy nhau. 
+
+### **Câu 2: 
+
+Một điện tích điểm \( Q = -6 \times 10^{-6} C \) được đặt trong chân không. Một điểm \( P \) nằm cách điện tích này một khoảng \( r = 0.4 m \).  
+
+**a)** Vẽ hình biểu diễn điện phổ của điện trường do điện tích \( Q \) tạo ra.  
+
+**b)** Sử dụng công thức \( E = \frac{k |Q|}{\varepsilon r^2} \) để tính cường độ điện trường tại điểm \( P \). Biết rằng hằng số Coulomb \( k = 9 \times 10^9 \, N.m^2/C^2 \).  
+
+
+### **Câu 3:**  
+
+Một mạch điện chứa hai tụ điện có điện dung lần lượt là \( C_1 = 8 \mu F \) và \( C_2 = 4 \mu F \), được nối với hiệu điện thế \( U = 150V \).  
+
+**a)** Tìm điện dung của bộ tụ ghép song song.  
+
+**b)** Tính năng lượng của bộ tụ khi hai tụ được ghép song song và được tích điện ở hiệu điện thế \( U = 150V \).  
+
