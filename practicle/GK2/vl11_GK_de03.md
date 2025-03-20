@@ -16,8 +16,11 @@ D. Hai điện tích cùng dấu luôn hút nhau, hai điện tích trái dấu 
 Trong một thí nghiệm tại phòng thí nghiệm điện học, học sinh quan sát hành vi của một điện tích dương được thả trong một điện trường đều và đo lường điện thế tại các điểm khác nhau. 
 Chọn Đúng (Đ) hoặc Sai (S) cho các phát biểu sau: 
 A. Khi điện tích đó bay vào điện trường đều theo phương vuông góc với đường sức điện, quỹ đạo của nó sẽ luôn là một đường thẳng
+
 B. Trong một điện trường đều, lực điện tác dụng lên một điện tích đặt trong đó có độ lớn không đổi và ngược hướng với đường sức điện.
+
 C. Điện thế tại một điểm trong điện trường đặc trưng cho điện trường tại điểm đó về thế năng và có đơn vị đo là vôn (V). 
+
 D. Thế năng điện và điện thế liên hệ với nhau bởi công thức V= W_M/q 
 
 ---
