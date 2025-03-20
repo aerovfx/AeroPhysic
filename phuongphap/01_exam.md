@@ -1,3 +1,4 @@
+
 Các kỹ thuật dạy học nêu vấn đề theo hướng tổ chức hoạt động nhóm như mảnh ghép, trạm,… giúp học sinh chủ động tiếp thu kiến thức thông qua tương tác và hợp tác. Dưới đây là một số kỹ thuật tiêu biểu:
 
 1. Kỹ thuật Mảnh Ghép (Jigsaw)
