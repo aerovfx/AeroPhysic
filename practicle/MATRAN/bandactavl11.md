@@ -94,15 +94,9 @@
 ### 4.1. Cường độ dòng điện
 
 - *Nhận biết:
- 
 - Định nghĩa được đơn vị đo điện lượng coulomb là lượng điện tích chuyển qua tiết diện thẳng của dây dẫn trong 1 s khi có cường độ dòng điện 1 A chạy qua dây dẫn.
 Đ1
-
 - *Thông hiểu:
- 
- 
- 
- 
 - Thực hiện thí nghiệm (hoặc dựa vào tài liệu đa phương tiện), nêu được cường độ dòng điện đặc trưng cho tác dụng mạnh yếu của dòng điện và được xác định bằng điện lượng chuyển qua tiết diện thẳng của vật dẫn trong một đơn vị thời gian.
 - **Thông hiểu:** Thực nghiệm đo cường độ dòng điện.
 - **Vận dụng:** Công thức:  
