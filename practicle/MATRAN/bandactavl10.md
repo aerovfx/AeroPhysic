@@ -1,10 +1,18 @@
 # Tóm tắt nội dung môn Vật lý lớp 10
 
-## 1. Mở đầu
-- Hiểu mục tiêu và phương pháp nghiên cứu vật lý.
-- Biết cách đo lường, nhận diện sai số và tuân thủ quy tắc an toàn.
+## 1. Mở đầu: Giới thiệu mục đích học tập môn Vật lí
+### Nhận biết:
+- Nêu được đối tượng nghiên cứu của Vật lí học và mục tiêu của môn Vật lí.
+- Nêu được ví dụ chứng tỏ kiến thức, kĩ năng vật lí được sử dụng trong một số lĩnh vực khác nhau.
+- Nêu được một số ví dụ về phương pháp nghiên cứu vật lí (phương pháp thực nghiệm và phương pháp lí thuyết).
 
-## 2. Động học
+### Vận dụng:
+- Thảo luận để nêu được:
++ Một số loại sai số đơn giản hay gặp khi đo các đại lượng vật lí và cách khắc phục chúng;
++ Các quy tắc an toàn trong nghiên cứu và học tập môn Vật lí.
+
+
+## 2. Động học: Mô tả chuyển động
 - Xác định **độ dịch chuyển, vận tốc, gia tốc**.
 - Ứng dụng **công thức tính toán** và **vẽ đồ thị chuyển động**.
 - Thực nghiệm đo **tốc độ, gia tốc rơi tự do**.
