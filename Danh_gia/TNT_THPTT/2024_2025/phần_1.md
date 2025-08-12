@@ -41,7 +41,7 @@ B. các electron được phân bố đều trong nguyên tử.
 C. điện tích dương của nguyên tử được phân bố đều trong nguyên tử.  
 D. khối lượng của nguyên tử được phân bố đều trong nguyên tử.  
 
-**Câu 5.** Trong nguyên tử uranium, có bao nhiêu electron chuyển động xung quanh hạt nhân \(\mathrm{^{238}_{92}U}\)?  
+**Câu 5.** Trong nguyên tử uranium, có bao nhiêu electron chuyển động xung quanh hạt nhân $^{238}_{92}U$?  
 A. 238.  
 B. 1.  
 C. 92.  
@@ -65,17 +65,17 @@ B. Định luật Newton về chuyển động.
 C. Định luật Ohm cho vật dẫn kim loại.  
 D. Định luật Lenz về cảm ứng điện từ.  
 
-**Câu 9.** Một mặt M (dọc cắt là phẳng) có diện tích S, được đặt trong từ trường đều có độ lớn cảm ứng từ là B, góc giữa cảm ứng từ và vector pháp tuyến của mặt M là \(\alpha\). Từ thông qua mặt M được xác định bởi công thức:  
-A. \(\Phi = B S \cos \alpha\).  
-B. \(\Phi = B S \cos \omega\).  
-C. \(\Phi = B S \tan \alpha\).  
-D. \(\Phi = B S \sin \alpha\).  
+**Câu 9.** Một mặt M (dọc cắt là phẳng) có diện tích $S$, được đặt trong từ trường đều có độ lớn cảm ứng từ là $B$, góc giữa cảm ứng từ và vector pháp tuyến của mặt M là $\alpha$. Từ thông qua mặt M được xác định bởi công thức:  
+A. $\Phi = B S \cos \alpha$.  
+B. $\Phi = B S \cos \omega$.  
+C. $\Phi = B S \tan \alpha$.  
+D. $\Phi = B S \sin \alpha$.  
 
-**Câu 10.** Gọi Q là nhiệt lượng cần thiết để làm một lượng chất có khối lượng m chuyển hoàn toàn từ thể lỏng sang thể khí ở nhiệt độ sôi. Công thức xác định nhiệt hoá hơi riêng của chất này ở nhiệt độ sôi đó là:  
-A. \(L = \frac{Q}{m}\).  
-B. \(L = \frac{m}{Q}\).  
-C. \(L = \frac{Q}{2m}\).  
-D. \(L = \frac{Q}{m^2}\).  
+**Câu 10.** Gọi $Q$ là nhiệt lượng cần thiết để làm một lượng chất có khối lượng $m$ chuyển hoàn toàn từ thể lỏng sang thể khí ở nhiệt độ sôi. Công thức xác định nhiệt hoá hơi riêng của chất này ở nhiệt độ sôi đó là:  
+A. $L = \frac{Q}{m}$.  
+B. $L = \frac{m}{Q}$.  
+C. $L = \frac{Q}{2m}$.  
+D. $L = \frac{Q}{m^2}$.  
 
 **Câu 11.** Sự truyền năng lượng nhiệt giữa hai vật được đặt tiếp xúc với nhau khi chúng khác nhau về:  
 A. khối lượng.  
@@ -89,30 +89,28 @@ B. khối lượng riêng của khối khí giảm.
 C. áp suất khối khí giảm.  
 D. áp suất khối khí tăng.  
 
-**Câu 13.** Theo mô hình động học phân tử, ở thể lỏng, các phân tử
+**Câu 13.** Theo mô hình động học phân tử, ở thể lỏng, các phân tử  
 A. chỉ dao động quanh vị trí cân bằng cố định.  
 B. chuyển động hỗn loạn.  
 C. sắp xếp có trật tự.  
 D. dao động quanh vị trí cân bằng cố định.  
 
-**Câu 14.** Hạt nhân càng bền vững nếu 
+**Câu 14.** Hạt nhân càng bền vững nếu  
 A. năng lượng liên kết riêng của hạt nhân càng lớn.  
 B. độ hụt khối của hạt nhân càng lớn.  
 C. năng lượng liên kết của hạt nhân càng lớn.  
 D. điện tích của hạt nhân càng lớn.  
 
-
-**Câu 15.** Câu 15: Trong kí hiệu hạt nhân $^{A}_{Z}X$, Z là số  
+**Câu 15.** Trong kí hiệu hạt nhân $^{A}_{Z}X$, $Z$ là số  
 A. neutron.  
 B. nucleon.  
 C. positron.  
 D. proton.
 
-
 **Câu 16.** Trong hệ SI, đơn vị của nhiệt lượng nóng chảy riêng là  
 A. J/K.  
 B. J/(kg.K).  
-C. J/^oC.  
+C. J/$^\circ$C.  
 D. J/kg.  
 
 **Câu 17.** Nội năng của một khối khí xác định không đổi khi  
@@ -121,212 +119,150 @@ B. nhiệt độ và thể tích của khối khí không đổi.
 C. thể tích của khối khí không đổi.  
 D. khối khí nhận năng lượng nhiệt từ vật khác.  
 
-**Câu 18.** Công thức định luật I của nhiệt động lực học là  $delta U = A + Q$ với A là công và Q là kí hiệu 
+**Câu 18.** Công thức định luật I của nhiệt động lực học là $\delta U = A + Q$ với $A$ là công và $Q$ là kí hiệu  
 A. nhiệt dung riêng.  
 B. nhiệt nóng chảy riêng.  
 C. nhiệt lượng.  
 D. nhiệt độ.  
 
-## Đáp án và giải thích – Phần I
-
-1. **C. tesla (T)** – Tesla là đơn vị của cảm ứng từ \(B\) trong hệ SI.  
-2. **A. các phân tử chuyển động không ngừng** – Mô hình động học: phân tử luôn chuyển động nhiệt động (không ngừng).  
-3. **C. nóng chảy** – Rắn → lỏng là quá trình nóng chảy.  
-4. **A. điện tích dương của nguyên tử tập trung ở một thể tích rất nhỏ** – Thí nghiệm Rutherford cho thấy hạt nhân nhỏ, tích dương, chứa hầu hết điện tích và khối lượng.  
-5. **C. 92** – Ký hiệu \(\mathrm{^{238}_{92}U}\) cho biết \(Z = 92\) → số proton = 92 và nguyên tử trung hòa có 92 electron.  
-6. **B. thể tích của khối khí giảm khi nhiệt độ của khối khí giảm** – Đẳng áp: \(V \propto T\), nếu \(T\) giảm thì \(V\) giảm.  
-7. **B. Một điện tích đứng yên** – Chỉ tạo trường điện, không tạo từ trường.  
-8. **D. Định luật Lenz về cảm ứng điện từ** – Xác định chiều dòng điện cảm ứng (phản đối biến thiên từ thông).  
-9. **A. \(\Phi = B S \cos \alpha\)** – Công thức chuẩn của từ thông qua mặt phẳng.  
-10. **A. \(L = \dfrac{Q}{m}\)** – Nhiệt hoá hơi riêng = nhiệt cần / khối lượng.  
-11. **C. nhiệt độ** – Truyền nhiệt xảy ra khi có chênh lệch nhiệt độ.  
-12. **D. áp suất khối khí tăng** – Đẳng tích: nung nóng làm \(T\uparrow\) → \(p\uparrow\).  
-13. **B. chuyển động hỗn loạn** – Phân tử lỏng di chuyển tự do, hỗn loạn.  
-14. **A. năng lượng liên kết riêng của hạt nhân càng lớn** – Năng lượng liên kết riêng lớn → hạt nhân bền hơn.  
-15. **D. proton** – Z là số proton.  
-16. **D. J/kg** – Đơn vị của nhiệt nóng chảy riêng.  
-17. **B. nhiệt độ và thể tích của khối khí không đổi** – Nội năng khí lí tưởng chỉ phụ thuộc vào nhiệt độ.  
-18. **C. nhiệt lượng** – Trong \(\Delta U = A + Q\), \(Q\) là nhiệt lượng.
-
-
-
-```markdown
-$ ... $   // công thức inline  
-$$ ... $$ // công thức block
-```
-
----
-
-# Bài tập Toán
-
-## Câu 1
-
-**Đề:**
-Tính giá trị của biểu thức:
-$A = \frac{2}{3} + \frac{5}{6} - \frac{7}{9}$
-
-**Lời giải chi tiết:**
-Quy đồng mẫu số: mẫu chung là \$18\$.
-$A = \frac{12}{18} + \frac{15}{18} - \frac{14}{18} = \frac{12 + 15 - 14}{18} = \frac{13}{18}$
-
-**Kết quả:**
-$A = \frac{13}{18}$
-
----
-
-## Câu 2
-
-**Đề:**
-Rút gọn:
-$B = \frac{x}{x+1} + \frac{1}{x+1}$
-
-**Lời giải chi tiết:**
-Cùng mẫu \$(x+1)\$ nên ta cộng tử:
-$B = \frac{x + 1}{x+1} = 1, \quad x \neq -1$
-
-**Kết quả:**
-$B = 1, \quad x \neq -1$
-
----
-
-## Câu 3
-
-**Đề:**
-Giải phương trình:
-$2x - 3 = 5$
-
-**Lời giải chi tiết:**
-$2x - 3 = 5 \implies 2x = 8 \implies x = 4$
-
-**Kết quả:**
-$x = 4$
-
----
-
-## Câu 4
-
-**Đề:**
-Tìm \$y\$ biết \$3y + 2 = 11\$.
-
-**Lời giải chi tiết:**
-$3y + 2 = 11 \implies 3y = 9 \implies y = 3$
-
-**Kết quả:**
-$y = 3$
-
----
-
-## Câu 5
-
-**Đề:**
-Rút gọn:
-$C = \frac{2}{x} + \frac{3}{2x}$
-
-**Lời giải chi tiết:**
-Quy đồng mẫu \$2x\$:
-$C = \frac{4}{2x} + \frac{3}{2x} = \frac{7}{2x}, \quad x \neq 0$
-
-**Kết quả:**
-$C = \frac{7}{2x}, \quad x \neq 0$
-
----
-
-## Câu 6
-
-**Đề:**
-Tính:
-$D = \frac{4}{5} - \frac{7}{10}$
-
-**Lời giải chi tiết:**
-Quy đồng mẫu \$10\$:
-$D = \frac{8}{10} - \frac{7}{10} = \frac{1}{10}$
-
-**Kết quả:**
-$D = \frac{1}{10}$
-
----
-
-## Câu 7
-
-**Đề:**
-Tính:
-$E = \frac{1}{2} + \frac{2}{3}$
-
-**Lời giải chi tiết:**
-Quy đồng mẫu \$6\$:
-$E = \frac{3}{6} + \frac{4}{6} = \frac{7}{6}$
-
-**Kết quả:**
-$E = \frac{7}{6}$
-
----
-
-## Câu 8
-
-**Đề:**
-Giải:
-$\frac{x}{2} = 5$
-
-**Lời giải chi tiết:**
-$\frac{x}{2} = 5 \implies x = 10$
-
-**Kết quả:**
-$x = 10$
-
----
-
-## Câu 9
-
-**Đề:**
-Tính:
-$F = \frac{3}{4} \times \frac{8}{9}$
-
-**Lời giải chi tiết:**
-$F = \frac{3 \times 8}{4 \times 9} = \frac{24}{36} = \frac{2}{3}$
-
-**Kết quả:**
-$F = \frac{2}{3}$
-
----
-
-## Câu 10
-
-**Đề:**
-Giải phương trình:
-$5x = 20$
-
-**Lời giải chi tiết:**
-$5x = 20 \implies x = 4$
-
-**Kết quả:**
-$x = 4$
-
----
-
-## Câu 11
-
-**Đề:**
-Rút gọn:
-$G = \frac{2x}{y} \times \frac{3y}{4}$
-
-**Lời giải chi tiết:**
-Rút gọn \$y\$:
-$G = \frac{2x \times 3}{4} = \frac{6x}{4} = \frac{3x}{2}, \quad y \neq 0$
-
-**Kết quả:**
-$G = \frac{3x}{2}, \quad y \neq 0$
-
----
 
 ## Câu 12
+Cho con lắc lò xo treo thẳng đứng dao động điều hòa với chu kì \( T \). Lấy \( g = \pi^2 \, (\text{m/s}^2) \). Tại li độ \( x = 2 \, \text{cm} \) vận tốc của vật là \( 20 \, \text{cm/s} \). Chọn mốc thế năng đàn hồi tại vị trí cân bằng, gốc thời gian lúc vật qua vị trí có li độ \( x = 2 \, \text{cm} \) theo chiều dương. Viết phương trình dao động của vật.
 
-**Đề:**
-Tính:
-$H = \frac{5}{6} \div \frac{10}{9}$
+**Giải**  
+Từ công thức:
+\[
+\omega = \frac{2\pi}{T}
+\]
+Ta có:  
+\[
+v^2 = \omega^2 \left( A^2 - x^2 \right)
+\]
+Thay số:
+\[
+(0,2)^2 = \omega^2 \left( A^2 - (0,02)^2 \right)
+\]
+\[
+0,04 = \omega^2 (A^2 - 0,0004)
+\]
+\[
+A^2 - 0,0004 = \frac{0,04}{\omega^2}
+\]
 
-**Lời giải chi tiết:**
-$H = \frac{5}{6} \times \frac{9}{10} = \frac{45}{60} = \frac{3}{4}$
+Mặt khác, độ dãn của lò xo khi treo thẳng đứng:  
+\[
+\Delta l = \frac{mg}{k}
+\]
+Với:
+\[
+\omega = \sqrt{\frac{k}{m}} \Rightarrow k = m \omega^2
+\]
+\[
+\Delta l = \frac{mg}{m\omega^2} = \frac{g}{\omega^2}
+\]
+Vì con lắc lò xo treo thẳng đứng nên:
+\[
+\Delta l = \frac{g}{\omega^2}
+\]
+Mà \( \Delta l = \frac{T^2 g}{4\pi^2} \) nên:
+\[
+\frac{g}{\omega^2} = \frac{T^2 g}{4\pi^2}
+\]
+Suy ra:
+\[
+\omega = \frac{2\pi}{T}
+\]
+Với \( g = \pi^2 \, (\text{m/s}^2) \) thì:
+\[
+\Delta l = \frac{\pi^2}{\omega^2}
+\]
+Theo đề bài, con lắc dao động quanh vị trí cân bằng, nên cơ năng:
+\[
+W = \frac{1}{2}kA^2
+\]
+Từ phương trình \( v^2 = \omega^2(A^2 - x^2) \) và dữ kiện đề bài, ta tính được:
+\[
+A = \sqrt{0,0004 + \frac{0,04}{\omega^2}}
+\]
 
-**Kết quả:**
-$H = \frac{3}{4}$
+Tại \( t = 0 \), \( x = 0,02 \) m, \( v > 0 \) nên pha ban đầu:
+\[
+\omega t + \varphi = \arccos\left( \frac{x}{A} \right)
+\]
+Với \( t = 0 \):
+\[
+\varphi = \arccos\left( \frac{0,02}{A} \right)
+\]
+Do \( v > 0 \) nên \( \varphi \) thuộc góc phần tư IV.
 
+Vậy phương trình dao động:
+\[
+x = A \cos(\omega t + \varphi)
+\]
+Trong đó:
+\[
+A = \sqrt{0,0004 + \frac{0,04}{\omega^2}} \quad,\quad \varphi = -\arccos\left( \frac{0,02}{A} \right)
+\]
+**Câu 13:** Hai vật có cùng khối lượng m = 2kg, dao động điều hòa cùng biên độ A = 5cm, cùng tần số góc ω = 10 rad/s, cùng pha ban đầu. Lực kéo về cực đại của mỗi vật là:  
+
+Ta có:  
+\[ F_{\text{max}} = m \omega^2 A = 2 \times 10^2 \times 0,05 = 10 \, \text{N} \]  
+
+**Đáp án: C**
+
+---
+
+**Câu 14:** Một con lắc lò xo gồm vật nhỏ có khối lượng m = 0,2kg và lò xo có độ cứng k = 50 N/m. Kéo vật ra khỏi vị trí cân bằng 4cm rồi buông nhẹ. Chọn gốc thời gian là lúc buông vật, chiều dương hướng về vị trí cân bằng. Phương trình dao động của vật là:  
+
+Ta có:  
+\[
+\omega = \sqrt{\frac{k}{m}} = \sqrt{\frac{50}{0,2}} = \sqrt{250} \approx 15,81 \, \text{rad/s}
+\]  
+\[
+x = 0,04 \cos(15,81t) \quad (\text{m})
+\]  
+
+**Đáp án: A**
+
+---
+
+**Câu 15:** Một chất điểm dao động điều hòa với biên độ A = 5 cm, vận tốc cực đại là \( v_{\text{max}} = 31,4 \, \text{cm/s} \). Tần số góc dao động của chất điểm là:  
+
+Ta có:  
+\[
+v_{\text{max}} = \omega A \quad \Rightarrow \quad \omega = \frac{31,4}{5} = 6,28 \, \text{rad/s}
+\]  
+
+**Đáp án: B**
+
+---
+
+**Câu 16:** Một vật dao động điều hòa có vận tốc biến thiên điều hòa theo thời gian. Khi vật qua vị trí cân bằng thì gia tốc của nó là:  
+
+Ở vị trí cân bằng, li độ x = 0 ⇒ gia tốc a = -ω²x = 0.  
+
+**Đáp án: D**
+
+---
+
+**Câu 17:** Một vật dao động điều hòa theo phương trình \( x = 6 \cos(4\pi t) \, \text{cm} \). Vận tốc cực đại của vật là:  
+
+Ta có:  
+\[
+v_{\text{max}} = \omega A = 4\pi \times 6 = 24\pi \, \text{cm/s}
+\]  
+
+**Đáp án: C**
+
+---
+
+**Câu 18:** Một con lắc lò xo có chiều dài tự nhiên l₀ = 40 cm, độ cứng k = 100 N/m, khối lượng m = 0,25 kg, dao động điều hòa với biên độ A = 3 cm. Tốc độ cực đại của vật là:  
+
+\[
+\omega = \sqrt{\frac{k}{m}} = \sqrt{\frac{100}{0,25}} = 20 \, \text{rad/s}
+\]  
+\[
+v_{\text{max}} = \omega A = 20 \times 0,03 = 0,6 \, \text{m/s}
+\]  
+
+**Đáp án: B**
