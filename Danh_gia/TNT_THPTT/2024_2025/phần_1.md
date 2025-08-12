@@ -131,8 +131,8 @@ D. nhiệt độ.
 2. **A. các phân tử chuyển động không ngừng** — Mô hình động học: phân tử luôn chuyển động nhiệt động.  
 3. **C. nóng chảy** — Rắn → lỏng là quá trình nóng chảy.  
 4. **A. điện tích dương của nguyên tử tập trung ở một thể tích rất nhỏ** — Thí nghiệm Rutherford cho thấy hạt nhân nhỏ, tích dương.  
-5. **C. 92** — Ký hiệu \(^{238}_{92}\mathrm{U}\) cho biết \(Z=92\) ⇒ nguyên tử trung hoà có 92 electron.  
-6. **B. thể tích của khối khí giảm khi nhiệt độ của khối khí giảm** — Đẳng áp: \(V\propto T\), \(T\downarrow \Rightarrow V\downarrow\).  
+5. **C. 92** — Ký hiệu $^{238}_{92}\mathrm{U}$ cho biết $Z=92\$ ⇒ nguyên tử trung hoà có 92 electron.  
+6. **B. thể tích của khối khí giảm khi nhiệt độ của khối khí giảm** — Đẳng áp: $V\propto T $, $T\downarrow \Rightarrow V\downarrow\$.  
 7. **B. Một điện tích đứng yên** — Điện tích đứng yên tạo trường điện, không sinh từ trường.  
 8. **D. Định luật Lenz về cảm ứng điện từ** — Lenz xác định chiều dòng điện cảm ứng (phản đối biến thiên từ thông).  
 9. **A. \(\Phi = B S \cos \alpha\)** — Công thức chuẩn cho từ thông qua mặt phẳng.  
