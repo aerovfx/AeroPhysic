@@ -3,10 +3,16 @@ title: "Đề thi - PHẦN II"
 mathjax: true
 ---
 
+<!-- Nhúng MathJax -->
+<script type="text/javascript" async
+  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
+</script>
+
 ## PHẦN II. Thí sinh trả lời từ câu 1 đến câu 4. Trong mỗi ý a), b), c) d) ở mỗi câu, thí sinh chọn đúng hoặc sai.
 
 ### Câu 1
-Một nhóm học sinh thảo luận phương án thí nghiệm làm giảm ảnh hưởng của sự trao đổi nhiệt với môi trường khi đo nhiệt nóng chảy riêng của nước đá. Họ dùng các dụng cụ: Phễu chứa nước đá (1), dây điện trở (2), cốc (3), cân điện tử (4) như hình bên.  
+Một nhóm học sinh thảo luận phương án thí nghiệm làm giảm ảnh hưởng của sự trao đổi nhiệt với môi trường khi đo nhiệt nóng chảy riêng của nước đá.  
+Họ dùng các dụng cụ: Phễu chứa nước đá (1), dây điện trở (2), cốc (3), cân điện tử (4) như hình bên.  
 Nhóm học sinh cho rằng: Trong thời gian cấp điện cho dây điện trở, nếu xác định được càng chính xác khối lượng nước đá tan chảy vào cốc do nhiệt lượng nhận được từ môi trường thì sẽ giảm được càng nhiều ảnh hưởng của sự trao đổi nhiệt giữa nước đá với môi trường.  
 Phương án thí nghiệm của họ gồm hai giai đoạn và được tóm tắt như sau:
 
@@ -20,7 +26,8 @@ Phương án thí nghiệm của họ gồm hai giai đoạn và được tóm t
 ---
 
 ### Câu 2
-Một nam châm được đặt nằm cân. Một đoạn dây dẫn cứng được giữ cố định, nằm ngang, vuông góc với các đường sức từ của từ trường, ở giữa hai cực của nam châm (hình bên).  
+Một nam châm được đặt nằm cân.  
+Một đoạn dây dẫn cứng được giữ cố định, nằm ngang, vuông góc với các đường sức từ của từ trường, ở giữa hai cực của nam châm.  
 Cảm ứng từ \( \vec{B} \) của từ trường có phương nằm ngang và có độ lớn là **B**.  
 Chiều dài của phần dây dẫn PQ nằm trong vùng từ trường đều giữa hai cực của nam châm là **ℓ**.  
 Ban đầu, chưa có dòng điện chạy trong dây dẫn, cân chỉ một giá trị xác định. Sau đó, cho dòng điện không đổi với cường độ **I** chạy trong dây dẫn theo chiều từ P đến Q.  
@@ -54,12 +61,5 @@ Sóng điện từ được ứng dụng nhiều trong thông tin liên lạc.
 |---|---|
 | a) Tại một điểm có sóng điện từ truyền qua, cường độ điện trường và cảm ứng từ luôn dao động ngược pha. |  |
 | b) Sóng điện từ là sóng ngang. |  |
-| c) Giả sử tại một điểm có sóng điện từ truyền qua theo phương thẳng đứng hướng lên trên, nếu cường độ điện trường cực đại hướng bắc thì cường độ điện từ có hướng đông – tây. |  |
+| c) Giả sử tại một điểm có sóng điện từ truyền qua theo phương thẳng đứng hướng lên trên, nếu cường độ điện trường cực đại hướng bắc thì cường độ cảm ứng từ có hướng đông – tây. |  |
 | d) Không thể tạo ra hiện tượng giao thoa đối với sóng điện từ. |  |
-
----
-
-<!-- Thêm MathJax -->
-<script type="text/javascript" id="MathJax-script" async
-  src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-mml-chtml.js">
-</script>
