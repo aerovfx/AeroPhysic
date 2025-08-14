@@ -30,7 +30,7 @@ Các quá trình biến đổi hạt nhân là cơ sở của nhiều ứng dụ
 
 **Phát biểu** | **Đúng / Sai**
 ---|---
-a) Hạt nhân carbon $^{14}_6C $ phóng xạ β⁻ và biến đổi thành hạt nhân nitrogen $ ^{14}_7N $. | 
+a) Hạt nhân carbon $^{14}_6C$ phóng xạ β⁻ và biến đổi thành hạt nhân nitrogen $^{14}_7N$. | 
 b) Phản ứng phân hạch là phản ứng tỏa năng lượng. | 
 c) Phóng xạ là quá trình tự phát và ngẫu nhiên. | 
 d) Phản ứng nhiệt hạch là phản ứng thu năng lượng. | 
