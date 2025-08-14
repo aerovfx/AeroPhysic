@@ -16,7 +16,7 @@ d) Phương án thí nghiệm này là một trong những phương án có th�
 ---
 
 ### Câu 2
-Một nam châm được đặt nằm cân. Một đoạn dây dẫn cứng được giữ cố định, nằm ngang, vuông góc với các đường sức từ của từ trường, ở giữa hai cực của nam châm (hình bên). Cảm ứng từ $\vecto{B}$ của từ trường có phương nằm ngang và có độ lớn là **B**. Chiều dài của phần dây dẫn PQ nằm trong vùng từ trường đều giữa hai cực của nam châm là **ℓ**. Ban đầu, chưa có dòng điện chạy trong dây dẫn, cân chỉ một giá trị xác định. Sau đó, cho dòng điện không đổi với cường độ **I** chạy trong dây dẫn theo chiều từ P đến Q. Bỏ qua ảnh hưởng của từ trường Trái Đất.
+Một nam châm được đặt nằm cân. Một đoạn dây dẫn cứng được giữ cố định, nằm ngang, vuông góc với các đường sức từ của từ trường, ở giữa hai cực của nam châm (hình bên). Cảm ứng từ $\vecto{B}$ $\vecto{B}$ của từ trường có phương nằm ngang và có độ lớn là **B**. Chiều dài của phần dây dẫn PQ nằm trong vùng từ trường đều giữa hai cực của nam châm là **ℓ**. Ban đầu, chưa có dòng điện chạy trong dây dẫn, cân chỉ một giá trị xác định. Sau đó, cho dòng điện không đổi với cường độ **I** chạy trong dây dẫn theo chiều từ P đến Q. Bỏ qua ảnh hưởng của từ trường Trái Đất.
 
 **Phát biểu** | **Đúng / Sai**
 ---|---
