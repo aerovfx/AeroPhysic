@@ -1,6 +1,6 @@
 ## PHẦN III.  Thí sinh trả lời từ câu 1 đến 6.
 
-Dùng thông tin sau cho câu 1 và câu 2:  Một khung dây dẫn phẳng, kín, có diện tích $ 2{,}67 \times 10^{-4} {m}^2 $, gồm 27 vòng dây được đặt trong từ trường đều sao cho cảm ứng từ $\vecto {B}$ vuông góc với mặt phẳng khung dây. Trong 0,620 s, độ lớn cảm ứng từ của từ trường tăng đều từ 0,100 T đến 0,500 T.
+Dùng thông tin sau cho câu 1 và câu 2:  Một khung dây dẫn phẳng, kín, có diện tích $2{,}67 \times 10^{-4} {m}^2$, gồm 27 vòng dây được đặt trong từ trường đều sao cho cảm ứng từ $\vec{B}$ vuông góc với mặt phẳng khung dây. Trong 0,620 s, độ lớn cảm ứng từ của từ trường tăng đều từ 0,100 T đến 0,500 T.
 
 ---
 
@@ -20,7 +20,7 @@ Trong các trạm không gian vũ trụ, chất thải hữu cơ chứa khí car
 ---
 
 **Câu 3**  
-Bình chứa khí $CH_4$ có thể tích 164 lít và được duy trì ở nhiệt độ $-41^\circ C$. Áp suất của khí $CH_4$ trong bình là $ x \times 10^5 Pa $. Tìm x (làm tròn kết quả đến chữ số hàng phần trăm).
+Bình chứa khí $CH_4$ có thể tích 164 lít và được duy trì ở nhiệt độ $-41^\circ C$. Áp suất của khí $CH_4$ trong bình là $ x \times 10^5 Pa$. Tìm x (làm tròn kết quả đến chữ số hàng phần trăm).
 
 ---
 
