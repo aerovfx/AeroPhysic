@@ -35,4 +35,4 @@ Trước đây, để thuận tiện cho việc xem giờ, các nhà sản xuấ
 ---
 
 **Câu 5**  
-Độ phóng xạ ban đầu của lượng $^{226}_{88} Ra $ được sơn trên đồng hồ là bao nhiêu megabecquerel (MBq, làm tròn kết quả đến chữ số hàng phần trăm)?
+Độ phóng xạ ban đầu của lượng $^{226}_{88}Ra$ được sơn trên đồng hồ là bao nhiêu megabecquerel (MBq, làm tròn kết quả đến chữ số hàng phần trăm)?
